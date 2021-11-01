@@ -1,0 +1,8 @@
+object{
+    width: 100%;
+    max-width: 960px;
+    min-width: 430px;
+    box-sizing: border-box;
+    margin: auto;
+    padding: 15px;
+}
